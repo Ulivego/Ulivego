@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ulivego
 - 👀 I’m interested in programming, videogames, movies, nature and history.
-- 🌱 I’m currently learning videogame development on  Unity using C# and Java.
+- 🌱 I’m currently doing a Bachelor's Degree in Computer Science
 - 💞️ I’m looking to collaborate on any project that involves C++ or Python that helps me learn new things, since I'm more familiar with these languages.
 - 📫 How to reach me. Email: ulivego@hotmail.com.
 
