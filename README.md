@@ -5,7 +5,7 @@
 - 👋 Hello, I’m @Ulivego.
 - 👀 I’m interested in programming, videogames, music, movies, nature and history.
 - 🌱 I’m currently in the sixth semester of my Bachelor's Degree in Computer Science.
-- 🐸 I enjoy learning new tools and techonlogies that help me grow in the fields that I'm interested in.
+- 🐸 I enjoy learning new tools and techonlogies that help me grow in the fields that I'm interested in, and these fields are front end and video games development.
 
 ## Languages and Technologies
 <table>
